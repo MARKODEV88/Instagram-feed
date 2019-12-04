@@ -1,0 +1,23 @@
+body{background: #f2f2f2;margin: 0;}
+header {background: white;width: 500px;margin: auto;padding: 10px;margin-bottom: 30px;}
+
+
+div.picture1 {background: white; width: 500px; margin: auto; padding: 10px;}
+div.picture1 .top .left {display: inline-block; width: 90%;}
+div.picture1 .top .right {display: inline-block; width: 8%; color: grey;}
+div.picture1 img {width: 100%;}
+
+div.picture2 {background: white; width: 500px; margin: auto; padding: 10px;}
+div.picture2 .top .left {display: inline-block; width: 90%;}
+div.picture2 .top .right {display: inline-block; width: 8%; color: grey;}
+div.picture2 img {width: 100%;}
+
+div.picture3 {background: white; width: 500px; margin: auto; padding: 10px;}
+div.picture3 .top .left {display: inline-block; width: 90%;}
+div.picture3 .top .right {display: inline-block; width: 8%; color: grey;}
+div.picture3 img {width: 100%;}
+
+div.picture4 {background: white; width: 500px; margin: auto; padding: 10px;}
+div.picture4 .top .left {display: inline-block; width: 90%;}
+div.picture4 .top .right {display: inline-block; width: 8%; color: grey;}
+div.picture4 img {width: 100%;}
